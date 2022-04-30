@@ -8,6 +8,7 @@ body{
 /*header start*/
 header{
 	background-color: #121b2a;
+	padding-top:26px;
 }
 
 .wrapper {
